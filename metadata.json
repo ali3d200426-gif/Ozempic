@@ -1,0 +1,7 @@
+{
+  "name": "Ozempic Sales Rep AI Trainer",
+  "description": "An interactive, mobile-style training application for sales representatives on Ozempic for obesity, featuring AI-generated picture questions and voice recording for answers with AI feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
